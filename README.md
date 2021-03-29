@@ -2,8 +2,11 @@
 
 ## Requirements
 
-This assignment required me to download and use Jupyter Notebook for the first time. The .ipynb
+This assignment required me to download and use Jupyter Notebook for the first time. The PyCitySchools.ipynb file must be opened in a Jupyter notebook and each cell must be run in order from the top down for the code to run the way it was intended.
 
+This challenge gave me a great introduction to dataframes and merging and cleaning data to get a desired outcome. There were certainly struggles with the different elements such as the 'groupby' and 'index' functions as well as the conditional statements and binning function. Through perseverance and google searches, I was able to get all the dataframes to output the desired information.
+
+## Background
 
 For this challenge, we were asked to analyze the district-wide standardized test results. We were given access to every student's math and reading scores, as well as various information on the schools they attend. We then aggregated the data to showcase trends in school performance.
 The final report includes each of the following:
