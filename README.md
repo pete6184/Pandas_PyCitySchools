@@ -1,5 +1,10 @@
 # Pandas_Challenge_PyCitySchools
 
+## Requirements
+
+This assignment required me to download and use Jupyter Notebook for the first time. The .ipynb
+
+
 For this challenge, we were asked to analyze the district-wide standardized test results. We were given access to every student's math and reading scores, as well as various information on the schools they attend. We then aggregated the data to showcase trends in school performance.
 The final report includes each of the following:
 
